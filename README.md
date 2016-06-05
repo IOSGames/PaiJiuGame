@@ -1,2 +1,0 @@
-# PaiJiuGame
-PaiJiuGame
