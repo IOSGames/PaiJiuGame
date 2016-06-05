@@ -13,7 +13,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>http://x5.justep.com/apps/x5.ipa</string>
+     <string>http://ftp548218.host504.zhujiwu.me/PaiJiuGame.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
